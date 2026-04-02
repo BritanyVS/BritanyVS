@@ -10,9 +10,9 @@
 <h1 align="center">📊 GitHub Stats</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BritanyVS&theme=rose&show_icons=true&count_private=true" alt="Britany Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BritanyVS&theme=rose&show_icons=true" alt="Britany Stats" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BritanyVS&theme=rose&layout=compact&count_private=true" alt="Britany Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BritanyVS&theme=rose&layout=compact" alt="Britany Langs" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BritanyVS&theme=rose" alt="Britany Streak" />
 </p>
@@ -20,7 +20,7 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=BritanyVS&label=Visitas&color=FFC0CB&label_color=561C24&style=flat-square" alt="Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=BritanyVS&label=PERFIL%20VISITADO&color=ffc0cb&style=flat-square" alt="Visitas" />
 </p>
 
 <p align="center">
